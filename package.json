@@ -1,0 +1,18 @@
+{
+  "name": "bitcoin-dev-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "private-key.js",
+  "dependencies": {
+    "bitcore-explorers": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "ripemd160": "^2.0.1",
+    "secp256k1": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
